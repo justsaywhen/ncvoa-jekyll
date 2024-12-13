@@ -1,7 +1,7 @@
 body {
  color: #010066;
  background: #cdcdcd;
- background-image: url(img/pagebg.png);
+ background-image: url(assets/img/pagebg.png);
  background-repeat: repeat-y;
  background-position: 50% 150px;
  font-family: Georgia, serif;
@@ -13,7 +13,7 @@ body {
  height: 150px;
  width: 700px;
  background: #cdcdcd;
- background-image: url(img/logo.jpg);
+ background-image: url(assets/img/logo.jpg);
  background-repeat: no-repeat;
  background-position: 10px bottom;
  padding-top: 15px;
